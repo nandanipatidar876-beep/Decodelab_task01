@@ -61,12 +61,6 @@ Program Flow
 
 ---
 
-Source Code File
-
-"todo_list.py"
-
----
-
 Sample Output
 
 ===== TO-DO LIST =====
