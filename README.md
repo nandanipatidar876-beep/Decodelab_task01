@@ -1,5 +1,5 @@
 # Decodelab_task01
-📝 To-Do List Application
+To-Do List Application
 
 Project Overview
 
